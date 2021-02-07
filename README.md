@@ -16,3 +16,18 @@ Prediction using Supervised ML
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
 ● DEMO : https://youtu.be/Qzz05NI0kTA
+
+
+**TASK 1**
+
+Prediction using Unsupervised ML
+
+(Level - Beginner)
+
+● From the given ‘Iris’ dataset, predict the optimum number of clustersand represent it visually.
+
+● Use R or Python or perform this task
+
+● Dataset : https://bit.ly/3kXTdox
+
+
