@@ -18,7 +18,7 @@ Prediction using Supervised ML
 ● DEMO : https://youtu.be/Qzz05NI0kTA
 
 
-**TASK 1**
+**TASK 2**
 
 Prediction using Unsupervised ML
 
